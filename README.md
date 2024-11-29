@@ -35,9 +35,9 @@
 
 ```bash
 Usage:
-  rshell <ip> <port> [options]       # Generate reverse shell
-  rshell --list                      # List all available shells
-  rshell --version                   # Show version information
+  Refto <ip> <port> [options]       # Generate reverse shell
+  Refto --list                      # List all available shells
+  Refto --version                   # Show version information
 
 Required Arguments:
   ip                           Target IP address (e.g., 192.168.1.10)
